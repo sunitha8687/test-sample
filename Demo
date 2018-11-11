@@ -1,0 +1,6 @@
+echo "Demo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sunitha8687/test-sample.git
+git push -u origin master
